@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\repository\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\repository\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\migrations\\20240407174145_authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\migrations\\20240407174145_authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\dtos\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\dtos\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\controllers\\authorbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\controllers\\authorbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\repository\\authorbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\repository\\authorbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\repository\\authorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\repository\\authorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\interfaces\\iauthorbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\interfaces\\iauthorbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\dtos\\authors\\createauthorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\dtos\\authors\\createauthorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\dtos\\authors\\authorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\dtos\\authors\\authorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\dtos\\books\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\dtos\\books\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\dtos\\books\\updatebooksrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\dtos\\books\\updatebooksrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\dtos\\books\\createbooksrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\dtos\\books\\createbooksrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\dtos\\authors\\updateauthorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\dtos\\authors\\updateauthorsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\mappers\\authorsmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\mappers\\authorsmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\mappers\\booksmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\mappers\\booksmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\models\\authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\models\\authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\interfaces\\iauthorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\interfaces\\iauthorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\models\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\models\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|c:\\users\\yurab\\source\\repos\\program-engineering1\\antibook\\antibook\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0526465-A957-48BA-87E7-02751A63A7A5}|AntiBook\\AntiBook.csproj|solutionrelative:antibook\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240407174145_AuthorBook.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Migrations\\20240407174145_AuthorBook.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Migrations\\20240407174145_AuthorBook.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Migrations\\20240407174145_AuthorBook.cs",
+              "RelativeToolTip": "AntiBook\\Migrations\\20240407174145_AuthorBook.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:41:45.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorBookController.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Controllers\\AuthorBookController.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Controllers\\AuthorBookController.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Controllers\\AuthorBookController.cs",
+              "RelativeToolTip": "AntiBook\\Controllers\\AuthorBookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:47:15.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Repository\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Repository\\BooksRepository.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Repository\\BooksRepository.cs",
+              "RelativeToolTip": "AntiBook\\Repository\\BooksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:28:19.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AntiBook\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:29:40.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\appsettings.json",
+              "RelativeDocumentMoniker": "AntiBook\\appsettings.json",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\appsettings.json",
+              "RelativeToolTip": "AntiBook\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T14:39:54.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Models\\AppUser.cs",
+              "RelativeToolTip": "AntiBook\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:24:54.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Dtos\\Account\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "AntiBook\\Dtos\\Account\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:35:33.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Account\\NewUserDto.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Dtos\\Account\\NewUserDto.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Account\\NewUserDto.cs",
+              "RelativeToolTip": "AntiBook\\Dtos\\Account\\NewUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:44:04.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Repository\\AuthorsRepository.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Repository\\AuthorsRepository.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Repository\\AuthorsRepository.cs",
+              "RelativeToolTip": "AntiBook\\Repository\\AuthorsRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwCMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T11:38:51.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthorBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Interfaces\\IAuthorBookRepository.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Interfaces\\IAuthorBookRepository.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Interfaces\\IAuthorBookRepository.cs",
+              "RelativeToolTip": "AntiBook\\Interfaces\\IAuthorBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:39:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Repository\\AuthorBookRepository.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Repository\\AuthorBookRepository.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Repository\\AuthorBookRepository.cs",
+              "RelativeToolTip": "AntiBook\\Repository\\AuthorBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:41:37.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Interfaces\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Interfaces\\IBooksRepository.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Interfaces\\IBooksRepository.cs",
+              "RelativeToolTip": "AntiBook\\Interfaces\\IBooksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:25:13.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateAuthorsDto.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Authors\\CreateAuthorsDto.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Dtos\\Authors\\CreateAuthorsDto.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Authors\\CreateAuthorsDto.cs",
+              "RelativeToolTip": "AntiBook\\Dtos\\Authors\\CreateAuthorsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T17:10:55.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "AntiBook\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:02:40.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QueryObject.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Helpers\\QueryObject.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Helpers\\QueryObject.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Helpers\\QueryObject.cs",
+              "RelativeToolTip": "AntiBook\\Helpers\\QueryObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:18:16.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorsDto.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Authors\\AuthorsDto.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Dtos\\Authors\\AuthorsDto.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Authors\\AuthorsDto.cs",
+              "RelativeToolTip": "AntiBook\\Dtos\\Authors\\AuthorsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T11:59:18.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BooksDto.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Books\\BooksDto.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Dtos\\Books\\BooksDto.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Books\\BooksDto.cs",
+              "RelativeToolTip": "AntiBook\\Dtos\\Books\\BooksDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:56:05.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "AntiBook\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T11:53:22.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateBooksRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Books\\UpdateBooksRequestDto.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Dtos\\Books\\UpdateBooksRequestDto.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Books\\UpdateBooksRequestDto.cs",
+              "RelativeToolTip": "AntiBook\\Dtos\\Books\\UpdateBooksRequestDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:28:19.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "AntiBook\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:22:41.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateBooksRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Books\\CreateBooksRequestDto.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Dtos\\Books\\CreateBooksRequestDto.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Books\\CreateBooksRequestDto.cs",
+              "RelativeToolTip": "AntiBook\\Dtos\\Books\\CreateBooksRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T18:20:13.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateAuthorsDto.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Authors\\UpdateAuthorsDto.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Dtos\\Authors\\UpdateAuthorsDto.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Authors\\UpdateAuthorsDto.cs",
+              "RelativeToolTip": "AntiBook\\Dtos\\Authors\\UpdateAuthorsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:05:09.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Dtos\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Dtos\\Account\\LoginDto.cs",
+              "RelativeToolTip": "AntiBook\\Dtos\\Account\\LoginDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:41:58.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthorsMappers.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Mappers\\AuthorsMappers.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Mappers\\AuthorsMappers.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Mappers\\AuthorsMappers.cs",
+              "RelativeToolTip": "AntiBook\\Mappers\\AuthorsMappers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T12:01:24.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BooksMappers.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Mappers\\BooksMappers.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Mappers\\BooksMappers.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Mappers\\BooksMappers.cs",
+              "RelativeToolTip": "AntiBook\\Mappers\\BooksMappers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:28:40.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthorBook.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Models\\AuthorBook.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Models\\AuthorBook.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Models\\AuthorBook.cs",
+              "RelativeToolTip": "AntiBook\\Models\\AuthorBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:19:31.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAuthorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Interfaces\\IAuthorsRepository.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Interfaces\\IAuthorsRepository.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Interfaces\\IAuthorsRepository.cs",
+              "RelativeToolTip": "AntiBook\\Interfaces\\IAuthorsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T11:36:43.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Authors.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Models\\Authors.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Models\\Authors.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Models\\Authors.cs",
+              "RelativeToolTip": "AntiBook\\Models\\Authors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:38:59.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Models\\Books.cs",
+              "RelativeToolTip": "AntiBook\\Models\\Books.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:16:30.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "AntiBook\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:18:38.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Service\\TokenService.cs",
+              "RelativeToolTip": "AntiBook\\Service\\TokenService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:19:38.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Program.cs",
+              "RelativeDocumentMoniker": "AntiBook\\Program.cs",
+              "ToolTip": "C:\\Users\\yurab\\source\\repos\\Program-engineering1\\AntiBook\\AntiBook\\Program.cs",
+              "RelativeToolTip": "AntiBook\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:52:11.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
