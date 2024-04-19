@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AntiBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+598c6e6beb502c233c5f8b12c06f18e218b53833")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+470a779589066f5ad21f544d8f6e21e566b56313")]
 [assembly: System.Reflection.AssemblyProductAttribute("AntiBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AntiBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
